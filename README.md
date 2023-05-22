@@ -8,6 +8,8 @@ This will also have the benefit of Search Engine Optimisation.
 ## Acceptance Criteria
 
 There are multiple Acceptance Criteria for this challenge.
+Original starter files accessed from GitLab
+https://git.bootcampcontent.com/University-of-Sydney/USYD-VIRT-FSF-PT-05-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge
 
 ### Semantic HTML Elements
 The Website should use Semantic HTML Elements instead of non-specific elements such as -div- or -span-.
